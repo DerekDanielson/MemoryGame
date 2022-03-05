@@ -1,0 +1,43 @@
+#game div {
+    border: 3px solid black;
+    width: 15%;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+    border-radius: 10%;
+    background-color: rgb(76, 73, 85);
+  }
+  
+  body {
+    background-color: #F1EBE4;
+  }
+  
+  h1 {
+    font-family: 'Ewert', cursive;
+    padding-left: 375px;
+    font-size: 50pt;
+    color: #6E0D25;
+  }
+  
+  button {
+    color: #F1EBE4;
+  }
+  
+  #block {
+    padding-left: 150px;
+  }
+  
+  #button{
+    padding-top: 40px;
+    padding-left: 1200px;
+  }
+  
+  #newGame {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 50%;
+    font-size: 11pt;
+    font-weight: bolder;
+    background-color: #6E0D25;
+    box-shadow: whitesmoke;
+  }
